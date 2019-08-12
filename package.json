@@ -24,6 +24,7 @@
         }
     ],
     "dependencies": {
+        "node-red-contrib-dialogflowv2-ap": "*",
         "node-red": "0.20.7",
         "node-red-node-msgpack": "*",
         "node-red-node-base64": "*",
