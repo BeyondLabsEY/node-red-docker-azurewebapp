@@ -31,6 +31,6 @@
         "node-red-node-random": "*"
     },
     "engines": {
-        "node": "4.*.*"
+        "node": "8.*.*"
     }
 }
